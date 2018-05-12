@@ -1,9 +1,13 @@
 _repo: Right-End-Emerson_50414
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Crump, Leslie
     gutenberg_agent_id: '44200'
     url: http://www.gutenberg.org/2009/agents/44200
+covers:
+- cover_type: archival
+  image_path: 50414-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbour, Ralph Henry
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2067
     wikipedia: http://en.wikipedia.org/wiki/Ralph_Henry_Barbour
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50414#Right-End-Emerson
 gutenberg_issued: '2015-11-09'
 gutenberg_type: Text
 identifiers:
